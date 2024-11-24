@@ -23,7 +23,7 @@ and a log file.
 1. Clone the repository:
     ```sh
     git clone https://github.com/juanM-RC/data-processing-exercise.git
-    cd document-analytics
+    cd data-processing-exercise
     ```
 
 2. Create a virtual environment and activate it:
