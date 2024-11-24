@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  document-analytics:
+    build: .
+    container_name: document-analytics
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/usr/src/app

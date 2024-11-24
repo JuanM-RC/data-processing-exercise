@@ -1,0 +1,8 @@
+[run]
+# Specify the source directory for coverage
+source = src
+
+[report]
+# Exclude specific files or directories from the coverage report
+omit =
+    src/main.py

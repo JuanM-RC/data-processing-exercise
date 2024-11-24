@@ -1,0 +1,41 @@
+# .pylintrc configuration file for your project
+
+[MASTER]
+
+# Maximum number of nested function calls
+max-nested-blocks=5
+
+# List of directories to search for Python modules
+init-hook='import sys; sys.path.append("/Users/jmartinroldan/Documents/PLaywright\ learning\ 2/src")'
+
+# Directories and files to ignore
+ignore=.pytest_cache,.venv,venv,fixtures,.coverage,README.md,requirements.txt,Dockerfile,logging.py,sample_data
+
+[MESSAGES CONTROL]
+# Disable specific messages
+disable=
+    R0903, # Too few public methods
+    E0401, # Unable to import
+    R0801, # Similar lines in files
+    W0621, # Redefining name from outer scope
+    C0301, # Line too long, disabled because it was causing noise with the docstring.
+    E0402, # Relative beyond top level
+
+[FORMAT]
+# Maximum line length
+max-line-length=100
+
+# Number of spaces per indentation level
+indent-string='    '
+
+[SIMILARITIES]
+# Minimum number of lines in a method to consider for similarity
+min-similarity-lines=4
+
+[TYPECHECK]
+# Ignore missing member errors for known third-party libraries
+ignored-modules=numpy,pandas
+
+[IMPORTS]
+# Allow wildcard imports
+allow-wildcard-with-all=no

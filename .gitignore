@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+venv/
+
+# VSCode settings
+.vscode/
+
+# pytest cache
+.pytest_cache/
+
+# Ignore system-specific files
+.DS_Store

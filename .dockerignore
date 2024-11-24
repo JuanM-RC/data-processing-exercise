@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore any log files or debug output
+logs/
+*.log
+
+# Ignore local configuration files
+*.env
+.DS_Store

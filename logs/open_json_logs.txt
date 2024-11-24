@@ -1,0 +1,736 @@
+2024-11-21 22:48:10,234 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-21 22:49:32,859 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-21 23:02:14,396 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 12:33:40,853 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 13:28:19,752 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 13:29:25,329 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 13:59:41,487 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:00:30,689 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:21:45,204 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:37:50,431 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:43:08,606 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:44:04,890 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:46:29,591 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+
+-----
+
+2024-11-22 14:46:39,870 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 14:47:02,106 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+
+-----
+
+2024-11-22 14:49:28,340 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+
+-----
+
+2024-11-22 14:50:53,547 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 15:22:08,108 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
+
+
+-----
+
+2024-11-22 15:28:07,514 -  open_json
+
+Number of distinct stories: 273
+
+Document ID 0B31D33076B73E35F140F4701F69168C:
+    - Missing indices: [1, 2, 3, 4, 24]
+    - Identical duplicate indices: index: 11, repeated: 5 times
+    - Different duplicate indices: index: 11, repeated: 1 time
+    - Invalid Type Errors:
+        Expected: int, Found: str for index: kjasd
+        Expected: int, Found: str for index: string
+    - Out of Range Errors:
+        Out of range index: -2
+        Out of range index: 0
+        Out of range index: 333
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Missing indices: [19, 27]
+    - Out of Range Errors:
+        Out of range index: 28
+        Out of range index: 12229
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Missing indices: [2]
+
+--- RP Entity ID Validation Logs ---
+
+Document ID E4086102EB4BAFB97DF4765B69B1DB9A:
+    - Invalid RP_ENTITY_ID: 'EA73sss5B' at index 22
+
+Document ID D7D1B9C1E0B83CA2AFC31261E8FBBDC1:
+    - Invalid RP_ENTITY_ID: 'F3548sda4' at index 7
+    - Invalid RP_ENTITY_ID: '8C23A' at index 17
+
+Document ID CECFA0D206F9A331099A7C65765A3FBD:
+    - Invalid RP_ENTITY_ID: '' at index 1
+    - Invalid RP_ENTITY_ID: '' at index 3
