@@ -46,13 +46,13 @@ and a log file.
     ```
 
 2.  Run the main script with the file path argument:
-    When running the script, provide the path to the file as an argument for main(). For example:
+    When running the script, provide the path to the file and the path for the output directory as arguments for main(). For example:
 
     ```sh
-    python3 src/main.py fixtures/rt-feed-record.rar
+    python3 src/main.py fixtures/rt-feed-record.rar logs/directory
     ```
 
-2. The results will be logged to both the console and a log file in the `logs` directory.
+    The results will be logged to both the console and a log file in the logs directory.
 
 ## Docker Usage
 You can also run the application inside a Docker container. This allows you to run the application without worrying about dependencies or environment setup.
