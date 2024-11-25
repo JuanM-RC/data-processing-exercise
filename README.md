@@ -36,23 +36,23 @@ and a log file.
     ```sh
     pip install -r requirements.txt
     ```
-
-## Usage
-
-1.  Run the following command:
+    
+4.  Export the PYTHONPATH
 
     ```sh
     export PYTHONPATH=$PYTHONPATH:/path/to/your/directory   
     ```
+    
+## Usage
 
-2.  Run the main script with the file path argument:
-    When running the script, provide the path to the file and the path for the output directory as arguments for main(). For example:
+Run the main script with the file path argument:
+When running the script, provide the path to the file and the path for the output directory as arguments for main(). For example:
 
-    ```sh
-    python3 src/main.py fixtures/rt-feed-record.rar logs/directory
-    ```
+```sh
+python3 src/main.py file/to/process/file logs/directory
+```
 
-    The results will be logged to both the console and a log file in the logs directory.
+The results will be logged to both the console and a log file in the logs directory.
 
 ## Docker Usage
 You can also run the application inside a Docker container. This allows you to run the application without worrying about dependencies or environment setup.
